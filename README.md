@@ -20,13 +20,13 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 Release phases indicate the stages that the product or feature goes through, from early testing to general availability.
 
-- **💬 exploring:**
+- **💬 exploring:**\
   The feature is at the idea stage. It is not yet approved.
 
-- **🎨 To design:**
+- **🎨 To design:**\
   The feature is approved. It must be defined and all the material necessary for its development must be provided. Specifcations, mockups, content...
 
-- **🛠️ to develop:**
+- **🛠️ to develop:**\
   Developers have all the elements to work on it. The feature contains specifications, clear tasks and materials.
 
 - **📄 to document:**\
