@@ -1,3 +1,5 @@
+![logo-case](https://user-images.githubusercontent.com/11723962/163215264-01cf6f38-3a02-469d-b49a-261a5af0e6c2.png)
+
 # Case public roadmap
 
 :sparkle: View the [official Case public product roadmap](https://github.com/orgs/case-app/projects/2)
