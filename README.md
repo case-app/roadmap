@@ -12,7 +12,7 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - A **release phase** that describes the next expected phase of the roadmap item. See below for a guide to release phases.
 
-- A **area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
+- An **area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
 
 - A **case element** that indicates the feature or product to which the item belongs. For a list of current case elements, see below.
 
