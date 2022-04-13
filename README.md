@@ -1,4 +1,5 @@
-![logo-case](https://user-images.githubusercontent.com/11723962/163215264-01cf6f38-3a02-469d-b49a-261a5af0e6c2.png)
+![case-logo-black](https://user-images.githubusercontent.com/11723962/163216302-7ceab1a8-19a1-444b-93f7-3d7469ee9986.png)
+
 
 # Case public roadmap
 
