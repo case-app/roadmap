@@ -29,7 +29,7 @@ Release phases indicate the stages that the product or feature goes through, fro
 - **🎨 To design:**\
   The feature is approved. It must be defined and all the material necessary for its development must be provided. Specifcations, mockups, content...
 
-- **🛠️ to develop:**\
+- **🛠️ to implement:**\
   Developers have all the elements to work on it. The feature contains specifications, clear tasks and materials.
 
 - **📄 to document:**\
